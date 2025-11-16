@@ -7,7 +7,7 @@ This project focuses on extracting handwritten text from images using a step-by-
 
 Handwriting detection and recognition play a vital role in Digital Image Processing, enabling the automated extraction of handwritten content from documents, notes, and real-world images. This project implements a hybrid system that combines classical MATLAB-based image processing techniques—such as grayscale conversion, noise filtering, adaptive thresholding, morphological refinement, and connected-component analysis—to accurately segment handwritten characters and group them into words. Alongside this, a CNN trained on the EMNIST ByClass dataset (62 alphanumeric classes) with a validation accuracy of ~87–89% is prepared to act as the recognition module. While the current MATLAB pipeline reliably detects and segments handwritten text, integrating the trained CNN for complete end-to-end OCR functionality remains the next step.
 
-**COURCE CONCEPT USED:**
+**COURSE CONCEPT USED:**
 
 1.Grayscale Conversion & Intensity Normalization
 
