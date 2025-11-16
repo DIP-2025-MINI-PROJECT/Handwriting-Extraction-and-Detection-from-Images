@@ -76,13 +76,13 @@ Output images:
 
 3. https://github.com/anandhkishan/Handwritten-Character-Recognition-using-CNN
 
-**LIMITATIONS AND FUTURE WORK:**
+**LIMITATIONS:**
 
 - **Character Segmentation Sensitivity:** The area/aspect-ratio filtering and spacing-based grouping may incorrectly remove or merge characters when handwriting is irregular.
   
 - **Incomplete OCR Pipeline:** The system currently performs only detection and segmentation; deep learning–based recognition is not yet integrated.
 
-**Future Improvements**
+**FUTURE WORK:**
 - **Integrate CNN Recognition Module:** Connect the MATLAB segmentation pipeline with the trained EMNIST CNN.
   
 - **Enhanced Text Segmentation:** Implement advanced deep-learning–based detectors (EAST/CTPN/YOLO) for more robust word and line detection in noisy or complex handwritten images.
