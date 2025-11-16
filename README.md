@@ -37,7 +37,7 @@ MODEL TRAINING
 
 https://www.tensorflow.org/datasets/catalog/emnist
 
-**NOVELITY:**
+**NOVELTY:**
 
 1.Advanced Morphological Operations for Stroke Reconstruction:
 The system uses morphology (gap closing, hole filling, noise removal) to repair broken handwriting strokes and strengthen thin characters, achieving clearer segmentation without training any neural networks.
