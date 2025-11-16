@@ -56,7 +56,17 @@ Characters are identified using simple geometric rules (area, aspect ratio), sho
 **OUTPUT:**
 
 The project produces five key outputs - a grayscale image showing the cleaned version of the original input, a binary image where thresholding and morphological operations isolate the handwriting, a visualization of individual characters marked with red bounding boxes, a view of grouped word regions highlighted in green, and finally a display of extracted word crops aligned horizontally to show the segmented text.
-Input image :
+
+Input image : 
+<img width="937" height="687" alt="Screenshot 2025-11-16 205036" src="https://github.com/user-attachments/assets/99411da8-433f-47e0-ba20-43a9e31476d9" />
+
+Output images:
+<img width="1919" height="901" alt="Screenshot 2025-11-16 174513" src="https://github.com/user-attachments/assets/735bf9a6-3aff-4fda-80d1-87db2e875d7c" />
+<img width="1919" height="902" alt="Screenshot 2025-11-16 174520" src="https://github.com/user-attachments/assets/171cbfe3-7e3c-4731-8cd6-9662f83ab184" />
+<img width="1919" height="900" alt="handwriting_detect" src="https://github.com/user-attachments/assets/52fea03e-a406-41c7-b759-99cc9907bab1" />
+<img width="1919" height="901" alt="Screenshot 2025-11-16 174533" src="https://github.com/user-attachments/assets/8e465e3a-f3ce-43d3-b3fd-2ba494f65a37" />
+<img width="1919" height="901" alt="Screenshot 2025-11-16 174539" src="https://github.com/user-attachments/assets/f4bc6c84-c2e1-47c5-9ddb-8a982ab8384c" />
+
 
 **REFERENCES:**
 
