@@ -47,11 +47,11 @@ Characters are identified using simple geometric rules (area, aspect ratio), sho
 
 **CONTRIBUTORS:**
 
-1.  Vibha Gopinath (PES1UG23EC343)
+1.Vibha Gopinath (PES1UG23EC343)
 
-2.  Vijayasree Rajesh(PES1UG23EC346)
+2.Vijayasree Rajesh(PES1UG23EC346)
 
-3.  Spoorthi K Gaddi (PES1UG23EC305)
+3.Spoorthi K Gaddi (PES1UG23EC305)
 
 **OUTPUT:**
 
